@@ -1,0 +1,23 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LAB12
+build_property.RootNamespace = LAB12
+build_property.ProjectDir = C:\LABS\ASP.NET\LAB12\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\LABS\ASP.NET\LAB12
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/LABS/ASP.NET/LAB12/Views/Entity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50aXR5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

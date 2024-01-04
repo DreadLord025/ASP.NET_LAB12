@@ -1,0 +1,32 @@
+﻿@model LAB12.Controllers.HomeIndexViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Список компанiй</h1>
+    <table>
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Назва</th>
+            <th>Рiк</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var company in Model.Companies)
+        {
+            <tr>
+                <td>@company.ID</td>
+                <td>@company.Name</td>
+                <td>@company.Year</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
